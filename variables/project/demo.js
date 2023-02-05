@@ -1,11 +1,3 @@
-
-
-
-
-/*
-const myElement = document.getElementById("demo");
-myElement.style.color = "red";
-*/
 var x = 0;
 const pi = 3.14;
 
