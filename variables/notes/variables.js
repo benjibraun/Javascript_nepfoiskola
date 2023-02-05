@@ -2,15 +2,16 @@
 variables -> https://www.w3schools.com/js/js_variables.asp
 data types -> https://www.w3schools.com/js/js_datatypes.asp
 */
-//				-declaration and definition-
 
-
+//				-declaration and definition-     
 //declaration (technically undefined)
+
 
 var x; 
 let y;
 	z;
 const pi = 3.14;
+
 
 //assign (aka definition) 
 x = 23;
